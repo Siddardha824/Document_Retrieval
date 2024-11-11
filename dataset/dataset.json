@@ -1,0 +1,182 @@
+[
+    {
+        "image_id": "3200797029",
+        "image_path": "dataset\\img\\3200797029.tif",
+        "gt_path": "dataset\\gt\\3200797029.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200797029_corrected.json"
+    },
+    {
+        "image_id": "3200797032",
+        "image_path": "dataset\\img\\3200797032.tif",
+        "gt_path": "dataset\\gt\\3200797032.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200797032_corrected.json"
+    },
+    {
+        "image_id": "3200797034",
+        "image_path": "dataset\\img\\3200797034.tif",
+        "gt_path": "dataset\\gt\\3200797034.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200797034_corrected.json"
+    },
+    {
+        "image_id": "3200797037",
+        "image_path": "dataset\\img\\3200797037.jpg",
+        "gt_path": "dataset\\gt\\3200797037.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200797037_corrected.json"
+    },
+    {
+        "image_id": "3200801612",
+        "image_path": "dataset\\img\\3200801612.tif",
+        "gt_path": "dataset\\gt\\3200801612.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801612_corrected.json"
+    },
+    {
+        "image_id": "3200801613",
+        "image_path": "dataset\\img\\3200801613.tif",
+        "gt_path": "dataset\\gt\\3200801613.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801613_corrected.json"
+    },
+    {
+        "image_id": "3200801615",
+        "image_path": "dataset\\img\\3200801615.tif",
+        "gt_path": "dataset\\gt\\3200801615.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801615_corrected.json"
+    },
+    {
+        "image_id": "3200801619",
+        "image_path": "dataset\\img\\3200801619.tif",
+        "gt_path": "dataset\\gt\\3200801619.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801619_corrected.json"
+    },
+    {
+        "image_id": "3200801622",
+        "image_path": "dataset\\img\\3200801622.tif",
+        "gt_path": "dataset\\gt\\3200801622.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801622_corrected.json"
+    },
+    {
+        "image_id": "3200801629",
+        "image_path": "dataset\\img\\3200801629.jpg",
+        "gt_path": "dataset\\gt\\3200801629.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801629_corrected.json"
+    },
+    {
+        "image_id": "3200801630",
+        "image_path": "dataset\\img\\3200801630.jpg",
+        "gt_path": "dataset\\gt\\3200801630.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801630_corrected.json"
+    },
+    {
+        "image_id": "3200801632",
+        "image_path": "dataset\\img\\3200801632.jpg",
+        "gt_path": "dataset\\gt\\3200801632.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801632_corrected.json"
+    },
+    {
+        "image_id": "3200801633",
+        "image_path": "dataset\\img\\3200801633.jpg",
+        "gt_path": "dataset\\gt\\3200801633.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801633_corrected.json"
+    },
+    {
+        "image_id": "3200801634",
+        "image_path": "dataset\\img\\3200801634.jpg",
+        "gt_path": "dataset\\gt\\3200801634.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200801634_corrected.json"
+    },
+    {
+        "image_id": "3200803382",
+        "image_path": "dataset\\img\\3200803382.tif",
+        "gt_path": "dataset\\gt\\3200803382.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200803382_corrected.json"
+    },
+    {
+        "image_id": "3200803389",
+        "image_path": "dataset\\img\\3200803389.tif",
+        "gt_path": "dataset\\gt\\3200803389.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200803389_corrected.json"
+    },
+    {
+        "image_id": "3200803401",
+        "image_path": "dataset\\img\\3200803401.tif",
+        "gt_path": "dataset\\gt\\3200803401.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200803401_corrected.json"
+    },
+    {
+        "image_id": "3200803403",
+        "image_path": "dataset\\img\\3200803403.tif",
+        "gt_path": "dataset\\gt\\3200803403.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200803403_corrected.json"
+    },
+    {
+        "image_id": "3200807879",
+        "image_path": "dataset\\img\\3200807879.tif",
+        "gt_path": "dataset\\gt\\3200807879.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807879_corrected.json"
+    },
+    {
+        "image_id": "3200807881",
+        "image_path": "dataset\\img\\3200807881.tif",
+        "gt_path": "dataset\\gt\\3200807881.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807881_corrected.json"
+    },
+    {
+        "image_id": "3200807886",
+        "image_path": "dataset\\img\\3200807886.tif",
+        "gt_path": "dataset\\gt\\3200807886.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807886_corrected.json"
+    },
+    {
+        "image_id": "3200807889",
+        "image_path": "dataset\\img\\3200807889.jpg",
+        "gt_path": "dataset\\gt\\3200807889.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807889_corrected.json"
+    },
+    {
+        "image_id": "3200807892",
+        "image_path": "dataset\\img\\3200807892.jpg",
+        "gt_path": "dataset\\gt\\3200807892.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807892_corrected.json"
+    },
+    {
+        "image_id": "3200807899",
+        "image_path": "dataset\\img\\3200807899.jpg",
+        "gt_path": "dataset\\gt\\3200807899.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807899_corrected.json"
+    },
+    {
+        "image_id": "3200807900",
+        "image_path": "dataset\\img\\3200807900.jpg",
+        "gt_path": "dataset\\gt\\3200807900.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807900_corrected.json"
+    },
+    {
+        "image_id": "3200807901",
+        "image_path": "dataset\\img\\3200807901.jpg",
+        "gt_path": "dataset\\gt\\3200807901.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807901_corrected.json"
+    },
+    {
+        "image_id": "3200807902",
+        "image_path": "dataset\\img\\3200807902.jpg",
+        "gt_path": "dataset\\gt\\3200807902.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807902_corrected.json"
+    },
+    {
+        "image_id": "3200807974",
+        "image_path": "dataset\\img\\3200807974.tif",
+        "gt_path": "dataset\\gt\\3200807974.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807974_corrected.json"
+    },
+    {
+        "image_id": "3200807975",
+        "image_path": "dataset\\img\\3200807975.tif",
+        "gt_path": "dataset\\gt\\3200807975.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200807975_corrected.json"
+    },
+    {
+        "image_id": "3200808393",
+        "image_path": "dataset\\img\\3200808393.tif",
+        "gt_path": "dataset\\gt\\3200808393.txt",
+        "ocr_json_path": "dataset\\ocr_corrected\\3200808393_corrected.json"
+    }
+]
